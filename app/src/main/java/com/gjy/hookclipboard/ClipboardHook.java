@@ -54,7 +54,6 @@ public class ClipboardHook {
         } catch (Exception e) {
             e.printStackTrace();
             Log.e(TAG, "Exception====" + e.getLocalizedMessage());
-            System.out.println("代码哪去了");
         }
     }
 
